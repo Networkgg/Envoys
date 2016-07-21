@@ -1,1 +1,6 @@
-
+name: Envoys
+main: Envoys\MainClass
+version: 1.0.0
+api: [2.0.0]
+author: NetworkGG team
+description: Chests fall from the sky beholding special loot!
